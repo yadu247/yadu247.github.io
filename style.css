@@ -376,6 +376,17 @@ article .icon {
   background: rgb(250, 250, 250);
 }
 
+.all-projects-container {
+  flex: 1;
+  border-radius: 2rem;
+  border: rgb(53, 53, 53) 0.1rem solid;
+  border-color: rgb(163, 163, 163);
+  text-align: center;
+  border-color: rgb(163, 163, 163);
+  background: rgb(228, 228, 228);
+  padding: 1rem;
+}
+
 .project-img {
   border-radius: 2rem;
   width: 90%;

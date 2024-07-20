@@ -1,1 +1,1 @@
-This is just the code of my personal portfolio website.
+Source code of my personal portfolio website.

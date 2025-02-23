@@ -1,8 +1,4 @@
 @media screen and (max-width: 1400px) {
-  #profile {
-    height: 83vh;
-    margin-bottom: 6rem;
-  }
   .about-containers {
     flex-wrap: wrap;
   }
@@ -27,8 +23,6 @@
   .Skills-details-container {
     margin-top: 2rem;
   }
-
-  #profile,
   .section-container {
     display: block;
   }
@@ -56,10 +50,6 @@
   #contact,
   footer {
     height: 40vh;
-  }
-  #profile {
-    height: 83vh;
-    margin-bottom: 0;
   }
   article {
     font-size: 1rem;
